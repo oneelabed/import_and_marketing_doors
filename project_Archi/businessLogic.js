@@ -117,6 +117,7 @@ function GetClientAndOrderInfo(){
 	}
 	else{
 		processInfo(firstName, lastName, cell, email, qORc);
+		alert("order sent successfully!");
 		cleanForm();
 	}
 }
