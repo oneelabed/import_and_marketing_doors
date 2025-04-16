@@ -1,6 +1,4 @@
-# project_Archi
-Project name: Rhino's import and marketing of doors | Dec 2024 - Jan 2025
-
+# Rhino's import and marketing of doors
 Designed and developed an interactive web application for selecting, customizing, and ordering doors using HTML, CSS, and JavaScript.
 
 Key features:-
