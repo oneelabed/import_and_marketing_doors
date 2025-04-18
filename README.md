@@ -7,6 +7,6 @@ Key features:-
 3. Added visualization features using external JavaScript libraries (Google Charts).
 4. Created a feedback mechanism.
 
-# Demo
+# Preview
 https://github.com/user-attachments/assets/1bcf8135-14af-4298-b29f-7f9b8640d795
 
